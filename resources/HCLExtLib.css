@@ -1,0 +1,12 @@
+.HCLExtLib-toolbar { 
+background-color:white;  !important
+}
+.HCLExtLib-toolbar .x-btn-left{
+    background: url(img/tbbtnnormal.png) no-repeat 0 0px;
+}
+.HCLExtLib-toolbar  .x-btn-right{
+    background: url(img/tbbtnnormal.png) no-repeat 0 -21px;
+}
+.HCLExtLib-toolbar .x-btn-center{
+    background: url(img/tbbtnnormal.png) repeat-x 0 -42px;
+}  
